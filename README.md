@@ -1,3 +1,4 @@
+DermaScan is an advanced AI-powered web application that helps users identify potential skin conditions through image analysis. Built with React, TypeScript, and Tailwind CSS, it provides a user-friendly interface for early skin cancer detection.
 ## 🚀 Features
 
 - **AI-Powered Analysis**: Upload skin lesion images for instant AI-based assessment
